@@ -1,1 +1,8 @@
-Say when its time , remember city peace 
+create a working directory
+git init in bash
+add files to working directory by git add <filename>   || git add .
+then you can commit file by git commit -m
+use git status for checking of modified or non-commited files 
+use gitlog to see the commits
+use git diff <filename> to check difference in the file if modified
+use git checkout <filename> to move back to prevoius data in file when it was commited
